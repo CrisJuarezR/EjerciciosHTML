@@ -1,1 +1,1 @@
-# EjerciciosHTML
+Ejercicios HTML para seguir practicando.
